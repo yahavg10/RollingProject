@@ -1,0 +1,400 @@
+2024-04-18 01:08:51 - INFO - extracted 1000 records from file 2024-04-18T01:08:51.096483
+2024-04-18 01:08:51 - ERROR - bug
+2024-04-18 01:08:51 - INFO - loaded 1000 records to file 2024-04-18T01:08:51.112123
+2024-04-18 01:08:56 - INFO - extracted 1000 records from file 2024-04-18T01:08:56.430810
+2024-04-18 01:08:56 - ERROR - bug
+2024-04-18 01:08:56 - INFO - loaded 1000 records to file 2024-04-18T01:08:56.430810
+2024-04-18 01:15:42 - INFO - extracted 1000 records from file 2024-04-18T01:15:42.401789
+2024-04-18 01:15:42 - ERROR - bug
+2024-04-18 01:15:42 - INFO - loaded 1000 records to file 2024-04-18T01:15:42.417437
+2024-04-18 01:20:58 - INFO - extracted 1000 records from file 2024-04-18T01:20:58.079658
+2024-04-18 01:20:58 - ERROR - bug
+2024-04-18 01:20:58 - INFO - loaded 1000 records to file 2024-04-18T01:20:58.095280
+2024-04-18 01:21:29 - INFO - extracted 1000 records from file 2024-04-18T01:21:29.890364
+2024-04-18 01:21:29 - ERROR - bug
+2024-04-18 01:21:29 - INFO - loaded 1000 records to file 2024-04-18T01:21:29.905998
+2024-04-18 01:24:40 - INFO - extracted 1000 records from file 2024-04-18T01:24:40.261249
+2024-04-18 01:24:40 - ERROR - bug
+2024-04-18 01:24:40 - INFO - loaded 1000 records to file 2024-04-18T01:24:40.276965
+2024-04-18 01:26:20 - INFO - extracted 1000 records from file 2024-04-18T01:26:20.198514
+2024-04-18 01:26:20 - ERROR - bug
+2024-04-18 01:26:20 - INFO - loaded 1000 records to file 2024-04-18T01:26:20.214046
+2024-04-18 01:28:32 - INFO - extracted 1000 records from file 2024-04-18T01:28:32.756797
+2024-04-18 01:28:32 - ERROR - bug
+2024-04-18 01:28:32 - INFO - loaded 1000 records to file 2024-04-18T01:28:32.756797
+2024-04-18 01:31:20 - INFO - extracted 1000 records from file 2024-04-18T01:31:20.508175
+2024-04-18 01:31:20 - ERROR - bug
+2024-04-18 01:31:20 - INFO - loaded 1000 records to file 2024-04-18T01:31:20.523786
+2024-04-18 01:32:34 - INFO - extracted 1000 records from file 2024-04-18T01:32:34.469443
+2024-04-18 01:32:34 - ERROR - bug
+2024-04-18 01:32:48 - INFO - extracted 1000 records from file 2024-04-18T01:32:48.148906
+2024-04-18 01:32:48 - ERROR - bug
+2024-04-18 01:32:48 - INFO - loaded 1000 records to file 2024-04-18T01:32:48.164540
+2024-04-18 01:35:19 - INFO - extracted 1000 records from file 2024-04-18T01:35:19.692183
+2024-04-18 01:35:19 - ERROR - bug
+2024-04-18 01:35:19 - INFO - loaded 1000 records to file 2024-04-18T01:35:19.707828
+2024-04-18 01:36:59 - INFO - extracted 1000 records from file 2024-04-18T01:36:59.609050
+2024-04-18 01:36:59 - ERROR - bug
+2024-04-18 01:36:59 - INFO - loaded 1000 records to file 2024-04-18T01:36:59.624625
+2024-04-18 02:01:21 - INFO - extracted 1000 records from file 2024-04-18T02:01:21.427540
+2024-04-18 02:01:21 - ERROR - bug
+2024-04-18 02:01:21 - ERROR - load_batches() takes 2 positional arguments but 4 were given
+2024-04-18 02:01:38 - INFO - extracted 1000 records from file 2024-04-18T02:01:38.317739
+2024-04-18 02:01:38 - ERROR - bug
+2024-04-18 02:01:38 - INFO - loaded 1000 records to file 2024-04-18T02:01:38.333303
+2024-04-18 02:02:24 - INFO - extracted 1000 records from file 2024-04-18T02:02:24.345938
+2024-04-18 02:02:24 - ERROR - bug
+2024-04-18 02:02:24 - INFO - loaded 1000 records to file 2024-04-18T02:02:24.361464
+2024-04-18 02:04:49 - INFO - extracted 1000 records from file 2024-04-18T02:04:49.078116
+2024-04-18 02:04:49 - INFO - loaded 1000 records to file 2024-04-18T02:04:49.093739
+2024-04-18 10:39:32 - INFO - extracted 1000 records from file 2024-04-18T10:39:32.097430
+2024-04-18 10:39:32 - INFO - loaded 1000 records to file 2024-04-18T10:39:32.128935
+2024-04-18 10:49:26 - INFO - extracted 1000 records from file 2024-04-18T10:49:26.664056
+2024-04-18 10:49:26 - INFO - loaded 1000 records to file 2024-04-18T10:49:26.673062
+2024-04-18 10:51:12 - INFO - extracted 1000 records from file 2024-04-18T10:51:12.709659
+2024-04-18 10:51:12 - INFO - loaded 1000 records to file 2024-04-18T10:51:12.725374
+2024-04-18 10:52:09 - INFO - extracted 1000 records from file 2024-04-18T10:52:09.751306
+2024-04-18 10:52:09 - INFO - loaded 1000 records to file 2024-04-18T10:52:09.766940
+2024-04-18 10:52:53 - INFO - extracted 1000 records from file 2024-04-18T10:52:53.251336
+2024-04-18 10:52:53 - INFO - loaded 1000 records to file 2024-04-18T10:52:53.251336
+2024-04-18 10:55:12 - INFO - extracted 1000 records from file 2024-04-18T10:55:12.841764
+2024-04-18 10:55:12 - INFO - loaded 1000 records to file 2024-04-18T10:55:12.857953
+2024-04-18 10:55:12 - INFO - extracted 1000 records from file 2024-04-18T10:55:12.889429
+2024-04-18 10:55:12 - INFO - extracted 1000 records from file 2024-04-18T10:55:12.889429
+2024-04-18 10:55:12 - INFO - loaded 1000 records to file 2024-04-18T10:55:12.905300
+2024-04-18 10:55:12 - INFO - loaded 1000 records to file 2024-04-18T10:55:12.905300
+2024-04-18 10:55:12 - INFO - extracted 1000 records from file 2024-04-18T10:55:12.920195
+2024-04-18 10:55:12 - INFO - extracted 1000 records from file 2024-04-18T10:55:12.920195
+2024-04-18 10:55:12 - INFO - extracted 1000 records from file 2024-04-18T10:55:12.920195
+2024-04-18 10:55:12 - INFO - loaded 1000 records to file 2024-04-18T10:55:12.935916
+2024-04-18 10:55:12 - INFO - loaded 1000 records to file 2024-04-18T10:55:12.935916
+2024-04-18 10:55:12 - INFO - loaded 1000 records to file 2024-04-18T10:55:12.935916
+2024-04-18 10:55:46 - INFO - extracted 1000 records from file 2024-04-18T10:55:46.324340
+2024-04-18 10:55:46 - INFO - loaded 1000 records to file 2024-04-18T10:55:46.340053
+2024-04-18 10:56:20 - INFO - extracted 1000 records from file 2024-04-18T10:56:20.365187
+2024-04-18 10:56:20 - INFO - loaded 1000 records to file 2024-04-18T10:56:20.380804
+2024-04-18 11:05:38 - INFO - extracted 1000 records from file 2024-04-18T11:05:38.768738
+2024-04-18 11:05:38 - INFO - loaded 1000 records to file 2024-04-18T11:05:38.781732
+2024-04-18 11:15:32 - INFO - extracted 1000 records from file 2024-04-18T11:15:32.742859
+2024-04-18 11:15:32 - INFO - loaded 1000 records to file 2024-04-18T11:15:32.754863
+2024-04-18 11:27:36 - INFO - extracted 1000 records from file 2024-04-18T11:27:36.344983
+2024-04-18 11:27:36 - INFO - loaded 1000 records to file 2024-04-18T11:27:36.371325
+2024-04-18 11:27:36 - INFO - extracted 1000 records from file 2024-04-18T11:27:36.401319
+2024-04-18 11:27:36 - INFO - extracted 1000 records from file 2024-04-18T11:27:36.401319
+2024-04-18 11:27:36 - INFO - loaded 1000 records to file 2024-04-18T11:27:36.418421
+2024-04-18 11:27:36 - INFO - loaded 1000 records to file 2024-04-18T11:27:36.418421
+2024-04-18 11:27:36 - INFO - extracted 1000 records from file 2024-04-18T11:27:36.431411
+2024-04-18 11:27:36 - INFO - extracted 1000 records from file 2024-04-18T11:27:36.431411
+2024-04-18 11:27:36 - INFO - extracted 1000 records from file 2024-04-18T11:27:36.431411
+2024-04-18 11:27:36 - INFO - loaded 1000 records to file 2024-04-18T11:27:36.446321
+2024-04-18 11:27:36 - INFO - loaded 1000 records to file 2024-04-18T11:27:36.446321
+2024-04-18 11:27:36 - INFO - loaded 1000 records to file 2024-04-18T11:27:36.446321
+2024-04-18 11:28:13 - INFO - extracted 1000 records from file 2024-04-18T11:28:13.216422
+2024-04-18 11:28:13 - INFO - loaded 1000 records to file 2024-04-18T11:28:13.229422
+2024-04-18 12:20:56 - INFO - extracted 1000 records from file 2024-04-18T12:20:56.363343
+2024-04-18 12:20:56 - INFO - loaded 1000 records to file 2024-04-18T12:20:56.558331
+2024-04-18 12:21:03 - INFO - extracted 1000 records from file 2024-04-18T12:21:03.793898
+2024-04-18 12:21:03 - INFO - loaded 1000 records to file 2024-04-18T12:21:03.806898
+2024-04-18 12:21:36 - INFO - extracted 1000 records from file 2024-04-18T12:21:36.631756
+2024-04-18 12:21:40 - INFO - loaded 1000 records to file 2024-04-18T12:21:40.528590
+2024-04-18 12:22:02 - INFO - extracted 1000 records from file 2024-04-18T12:22:02.114933
+2024-04-18 12:22:23 - INFO - loaded 1000 records to file 2024-04-18T12:22:23.015112
+2024-04-18 12:22:55 - INFO - extracted 1000 records from file 2024-04-18T12:22:55.888161
+2024-04-18 12:22:55 - INFO - loaded 1000 records to file 2024-04-18T12:22:55.901567
+2024-04-18 12:24:08 - INFO - extracted 1000 records from file 2024-04-18T12:24:08.435195
+2024-04-18 12:24:08 - INFO - loaded 1000 records to file 2024-04-18T12:24:08.448183
+2024-04-18 12:24:20 - INFO - extracted 1000 records from file 2024-04-18T12:24:20.919457
+2024-04-18 12:24:20 - INFO - loaded 1000 records to file 2024-04-18T12:24:20.933538
+2024-04-18 12:24:20 - INFO - extracted 1000 records from file 2024-04-18T12:24:20.956839
+2024-04-18 12:24:20 - INFO - extracted 1000 records from file 2024-04-18T12:24:20.956839
+2024-04-18 12:24:20 - INFO - loaded 1000 records to file 2024-04-18T12:24:20.969839
+2024-04-18 12:24:20 - INFO - loaded 1000 records to file 2024-04-18T12:24:20.969839
+2024-04-18 12:24:20 - INFO - extracted 1000 records from file 2024-04-18T12:24:20.978838
+2024-04-18 12:24:20 - INFO - extracted 1000 records from file 2024-04-18T12:24:20.978838
+2024-04-18 12:24:20 - INFO - extracted 1000 records from file 2024-04-18T12:24:20.978838
+2024-04-18 12:24:20 - INFO - loaded 1000 records to file 2024-04-18T12:24:20.993017
+2024-04-18 12:24:20 - INFO - loaded 1000 records to file 2024-04-18T12:24:20.993017
+2024-04-18 12:24:20 - INFO - loaded 1000 records to file 2024-04-18T12:24:20.993017
+2024-04-18 12:29:12 - INFO - extracted 1000 records from file 2024-04-18T12:29:12.743798
+2024-04-18 12:29:12 - INFO - loaded 1000 records to file 2024-04-18T12:29:12.759798
+2024-04-18 12:29:45 - INFO - extracted 1000 records from file 2024-04-18T12:29:45.947768
+2024-04-18 12:29:45 - INFO - loaded 1000 records to file 2024-04-18T12:29:45.959033
+2024-04-18 12:40:11 - INFO - extracted 1000 records from file 2024-04-18T12:40:11.524654
+2024-04-18 12:40:11 - INFO - loaded 1000 records to file 2024-04-18T12:40:11.539654
+2024-04-18 12:40:11 - INFO - extracted 1000 records from file 2024-04-18T12:40:11.554454
+2024-04-18 12:40:11 - INFO - extracted 1000 records from file 2024-04-18T12:40:11.554454
+2024-04-18 12:40:11 - INFO - loaded 1000 records to file 2024-04-18T12:40:11.566959
+2024-04-18 12:40:11 - INFO - loaded 1000 records to file 2024-04-18T12:40:11.566959
+2024-04-18 12:40:11 - INFO - extracted 1000 records from file 2024-04-18T12:40:11.577959
+2024-04-18 12:40:11 - INFO - extracted 1000 records from file 2024-04-18T12:40:11.577959
+2024-04-18 12:40:11 - INFO - extracted 1000 records from file 2024-04-18T12:40:11.577959
+2024-04-18 12:40:11 - INFO - loaded 1000 records to file 2024-04-18T12:40:11.591972
+2024-04-18 12:40:11 - INFO - loaded 1000 records to file 2024-04-18T12:40:11.591972
+2024-04-18 12:40:11 - INFO - loaded 1000 records to file 2024-04-18T12:40:11.591972
+2024-04-18 12:44:30 - INFO - extracted 1000 records from file 2024-04-18T12:44:30.271904
+2024-04-18 12:44:30 - INFO - loaded 1000 records to file 2024-04-18T12:44:30.292341
+2024-04-18 12:44:31 - INFO - extracted 1000 records from file 2024-04-18T12:44:31.196775
+2024-04-18 12:44:31 - INFO - extracted 1000 records from file 2024-04-18T12:44:31.196775
+2024-04-18 12:44:31 - INFO - loaded 1000 records to file 2024-04-18T12:44:31.209779
+2024-04-18 12:44:31 - INFO - loaded 1000 records to file 2024-04-18T12:44:31.209779
+2024-04-18 12:44:31 - INFO - extracted 1000 records from file 2024-04-18T12:44:31.222881
+2024-04-18 12:44:31 - INFO - extracted 1000 records from file 2024-04-18T12:44:31.222881
+2024-04-18 12:44:31 - INFO - extracted 1000 records from file 2024-04-18T12:44:31.222881
+2024-04-18 12:44:31 - INFO - loaded 1000 records to file 2024-04-18T12:44:31.234393
+2024-04-18 12:44:31 - INFO - loaded 1000 records to file 2024-04-18T12:44:31.234393
+2024-04-18 12:44:31 - INFO - loaded 1000 records to file 2024-04-18T12:44:31.234393
+2024-04-18 12:44:31 - INFO - extracted 1000 records from file 2024-04-18T12:44:31.243393
+2024-04-18 12:44:31 - INFO - extracted 1000 records from file 2024-04-18T12:44:31.243393
+2024-04-18 12:44:31 - INFO - extracted 1000 records from file 2024-04-18T12:44:31.243393
+2024-04-18 12:44:31 - INFO - extracted 1000 records from file 2024-04-18T12:44:31.243393
+2024-04-18 12:44:31 - INFO - loaded 1000 records to file 2024-04-18T12:44:31.255394
+2024-04-18 12:44:31 - INFO - loaded 1000 records to file 2024-04-18T12:44:31.255394
+2024-04-18 12:44:31 - INFO - loaded 1000 records to file 2024-04-18T12:44:31.255394
+2024-04-18 12:44:31 - INFO - loaded 1000 records to file 2024-04-18T12:44:31.255394
+2024-04-18 12:45:13 - INFO - extracted 1000 records from file 2024-04-18T12:45:13.806156
+2024-04-18 12:45:33 - INFO - extracted 1000 records from file 2024-04-18T12:45:33.757653
+2024-04-18 12:45:33 - INFO - loaded 1000 records to file 2024-04-18T12:45:33.770564
+2024-04-18 12:45:33 - INFO - extracted 1000 records from file 2024-04-18T12:45:33.798977
+2024-04-18 12:45:33 - INFO - extracted 1000 records from file 2024-04-18T12:45:33.798977
+2024-04-18 12:45:33 - INFO - loaded 1000 records to file 2024-04-18T12:45:33.811983
+2024-04-18 12:45:33 - INFO - loaded 1000 records to file 2024-04-18T12:45:33.811983
+2024-04-18 12:45:33 - INFO - extracted 1000 records from file 2024-04-18T12:45:33.827497
+2024-04-18 12:45:33 - INFO - extracted 1000 records from file 2024-04-18T12:45:33.827497
+2024-04-18 12:45:33 - INFO - extracted 1000 records from file 2024-04-18T12:45:33.827497
+2024-04-18 12:45:33 - INFO - loaded 1000 records to file 2024-04-18T12:45:33.841498
+2024-04-18 12:45:33 - INFO - loaded 1000 records to file 2024-04-18T12:45:33.841498
+2024-04-18 12:45:33 - INFO - loaded 1000 records to file 2024-04-18T12:45:33.841498
+2024-04-18 12:45:33 - INFO - extracted 1000 records from file 2024-04-18T12:45:33.850497
+2024-04-18 12:45:33 - INFO - extracted 1000 records from file 2024-04-18T12:45:33.850497
+2024-04-18 12:45:33 - INFO - extracted 1000 records from file 2024-04-18T12:45:33.850497
+2024-04-18 12:45:33 - INFO - extracted 1000 records from file 2024-04-18T12:45:33.850497
+2024-04-18 12:45:33 - INFO - loaded 1000 records to file 2024-04-18T12:45:33.862493
+2024-04-18 12:45:33 - INFO - loaded 1000 records to file 2024-04-18T12:45:33.862493
+2024-04-18 12:45:33 - INFO - loaded 1000 records to file 2024-04-18T12:45:33.862493
+2024-04-18 12:45:33 - INFO - loaded 1000 records to file 2024-04-18T12:45:33.862493
+2024-04-18 13:21:54 - INFO - extracted 1000 records from file 2024-04-18T13:21:54.739001
+2024-04-18 13:21:54 - INFO - loaded 1000 records to file 2024-04-18T13:21:54.753687
+2024-04-18 13:21:55 - INFO - extracted 1000 records from file 2024-04-18T13:21:55.626690
+2024-04-18 13:21:55 - INFO - extracted 1000 records from file 2024-04-18T13:21:55.626690
+2024-04-18 13:21:55 - INFO - loaded 1000 records to file 2024-04-18T13:21:55.637700
+2024-04-18 13:21:55 - INFO - loaded 1000 records to file 2024-04-18T13:21:55.637700
+2024-04-18 13:21:55 - INFO - extracted 1000 records from file 2024-04-18T13:21:55.649607
+2024-04-18 13:21:55 - INFO - extracted 1000 records from file 2024-04-18T13:21:55.649607
+2024-04-18 13:21:55 - INFO - extracted 1000 records from file 2024-04-18T13:21:55.649607
+2024-04-18 13:21:55 - INFO - loaded 1000 records to file 2024-04-18T13:21:55.661691
+2024-04-18 13:21:55 - INFO - loaded 1000 records to file 2024-04-18T13:21:55.661691
+2024-04-18 13:21:55 - INFO - loaded 1000 records to file 2024-04-18T13:21:55.661691
+2024-04-18 13:21:55 - INFO - extracted 1000 records from file 2024-04-18T13:21:55.670700
+2024-04-18 13:21:55 - INFO - extracted 1000 records from file 2024-04-18T13:21:55.670700
+2024-04-18 13:21:55 - INFO - extracted 1000 records from file 2024-04-18T13:21:55.670700
+2024-04-18 13:21:55 - INFO - extracted 1000 records from file 2024-04-18T13:21:55.670700
+2024-04-18 13:21:55 - INFO - loaded 1000 records to file 2024-04-18T13:21:55.682691
+2024-04-18 13:21:55 - INFO - loaded 1000 records to file 2024-04-18T13:21:55.682691
+2024-04-18 13:21:55 - INFO - loaded 1000 records to file 2024-04-18T13:21:55.682691
+2024-04-18 13:21:55 - INFO - loaded 1000 records to file 2024-04-18T13:21:55.682691
+2024-04-18 13:22:34 - INFO - extracted 1000 records from file 2024-04-18T13:22:34.252974
+2024-04-18 13:22:34 - INFO - loaded 1000 records to file 2024-04-18T13:22:34.266630
+2024-04-18 13:22:34 - INFO - extracted 1000 records from file 2024-04-18T13:22:34.290401
+2024-04-18 13:22:34 - INFO - extracted 1000 records from file 2024-04-18T13:22:34.290401
+2024-04-18 13:22:34 - INFO - loaded 1000 records to file 2024-04-18T13:22:34.304391
+2024-04-18 13:22:34 - INFO - loaded 1000 records to file 2024-04-18T13:22:34.304391
+2024-04-18 13:22:34 - INFO - extracted 1000 records from file 2024-04-18T13:22:34.322711
+2024-04-18 13:22:34 - INFO - extracted 1000 records from file 2024-04-18T13:22:34.322711
+2024-04-18 13:22:34 - INFO - extracted 1000 records from file 2024-04-18T13:22:34.322711
+2024-04-18 13:22:34 - INFO - loaded 1000 records to file 2024-04-18T13:22:34.337971
+2024-04-18 13:22:34 - INFO - loaded 1000 records to file 2024-04-18T13:22:34.337971
+2024-04-18 13:22:34 - INFO - loaded 1000 records to file 2024-04-18T13:22:34.337971
+2024-04-18 13:22:34 - INFO - extracted 1000 records from file 2024-04-18T13:22:34.348972
+2024-04-18 13:22:34 - INFO - extracted 1000 records from file 2024-04-18T13:22:34.348972
+2024-04-18 13:22:34 - INFO - extracted 1000 records from file 2024-04-18T13:22:34.348972
+2024-04-18 13:22:34 - INFO - extracted 1000 records from file 2024-04-18T13:22:34.348972
+2024-04-18 13:22:34 - INFO - loaded 1000 records to file 2024-04-18T13:22:34.361973
+2024-04-18 13:22:34 - INFO - loaded 1000 records to file 2024-04-18T13:22:34.361973
+2024-04-18 13:22:34 - INFO - loaded 1000 records to file 2024-04-18T13:22:34.361973
+2024-04-18 13:22:34 - INFO - loaded 1000 records to file 2024-04-18T13:22:34.361973
+2024-04-18 13:22:43 - INFO - extracted 1000 records from file 2024-04-18T13:22:43.732512
+2024-04-18 13:22:43 - INFO - loaded 1000 records to file 2024-04-18T13:22:43.746597
+2024-04-18 13:44:11 - INFO - extracted 1000 records from file 2024-04-18T13:44:11.305374
+2024-04-18 13:44:11 - INFO - loaded 1000 records to file 2024-04-18T13:44:11.331973
+2024-04-18 13:44:11 - INFO - extracted 1000 records from file 2024-04-18T13:44:11.382903
+2024-04-18 13:44:11 - INFO - extracted 1000 records from file 2024-04-18T13:44:11.382903
+2024-04-18 13:44:11 - INFO - loaded 1000 records to file 2024-04-18T13:44:11.400896
+2024-04-18 13:44:11 - INFO - loaded 1000 records to file 2024-04-18T13:44:11.400896
+2024-04-18 13:44:11 - INFO - extracted 1000 records from file 2024-04-18T13:44:11.429608
+2024-04-18 13:44:11 - INFO - extracted 1000 records from file 2024-04-18T13:44:11.429608
+2024-04-18 13:44:11 - INFO - extracted 1000 records from file 2024-04-18T13:44:11.429608
+2024-04-18 13:44:11 - INFO - loaded 1000 records to file 2024-04-18T13:44:11.453650
+2024-04-18 13:44:11 - INFO - loaded 1000 records to file 2024-04-18T13:44:11.453650
+2024-04-18 13:44:11 - INFO - loaded 1000 records to file 2024-04-18T13:44:11.453650
+2024-04-18 13:44:11 - INFO - extracted 1000 records from file 2024-04-18T13:44:11.470654
+2024-04-18 13:44:11 - INFO - extracted 1000 records from file 2024-04-18T13:44:11.470654
+2024-04-18 13:44:11 - INFO - extracted 1000 records from file 2024-04-18T13:44:11.470654
+2024-04-18 13:44:11 - INFO - extracted 1000 records from file 2024-04-18T13:44:11.470654
+2024-04-18 13:44:11 - INFO - loaded 1000 records to file 2024-04-18T13:44:11.492651
+2024-04-18 13:44:11 - INFO - loaded 1000 records to file 2024-04-18T13:44:11.492651
+2024-04-18 13:44:11 - INFO - loaded 1000 records to file 2024-04-18T13:44:11.492651
+2024-04-18 13:44:11 - INFO - loaded 1000 records to file 2024-04-18T13:44:11.492651
+2024-04-18 13:54:00 - INFO - extracted 1000 records from file 2024-04-18T13:54:00.540366
+2024-04-18 13:54:00 - INFO - loaded 1000 records to file 2024-04-18T13:54:00.556170
+2024-04-18 13:54:08 - INFO - extracted 1000 records from file 2024-04-18T13:54:08.702516
+2024-04-18 13:54:08 - INFO - loaded 1000 records to file 2024-04-18T13:54:08.718465
+2024-04-18 13:54:08 - INFO - extracted 1000 records from file 2024-04-18T13:54:08.747833
+2024-04-18 13:54:08 - INFO - extracted 1000 records from file 2024-04-18T13:54:08.747833
+2024-04-18 13:54:08 - INFO - loaded 1000 records to file 2024-04-18T13:54:08.759735
+2024-04-18 13:54:08 - INFO - loaded 1000 records to file 2024-04-18T13:54:08.759735
+2024-04-18 13:54:08 - INFO - extracted 1000 records from file 2024-04-18T13:54:08.778738
+2024-04-18 13:54:08 - INFO - extracted 1000 records from file 2024-04-18T13:54:08.778738
+2024-04-18 13:54:08 - INFO - extracted 1000 records from file 2024-04-18T13:54:08.778738
+2024-04-18 13:54:08 - INFO - loaded 1000 records to file 2024-04-18T13:54:08.790737
+2024-04-18 13:54:08 - INFO - loaded 1000 records to file 2024-04-18T13:54:08.790737
+2024-04-18 13:54:08 - INFO - loaded 1000 records to file 2024-04-18T13:54:08.790737
+2024-04-18 13:54:08 - INFO - extracted 1000 records from file 2024-04-18T13:54:08.802829
+2024-04-18 13:54:08 - INFO - extracted 1000 records from file 2024-04-18T13:54:08.802829
+2024-04-18 13:54:08 - INFO - extracted 1000 records from file 2024-04-18T13:54:08.802829
+2024-04-18 13:54:08 - INFO - extracted 1000 records from file 2024-04-18T13:54:08.802829
+2024-04-18 13:54:08 - INFO - loaded 1000 records to file 2024-04-18T13:54:08.813836
+2024-04-18 13:54:08 - INFO - loaded 1000 records to file 2024-04-18T13:54:08.813836
+2024-04-18 13:54:08 - INFO - loaded 1000 records to file 2024-04-18T13:54:08.813836
+2024-04-18 13:54:08 - INFO - loaded 1000 records to file 2024-04-18T13:54:08.813836
+2024-04-18 14:01:57 - INFO - extracted 1000 records from file 2024-04-18T14:01:57.269102
+2024-04-18 14:01:57 - INFO - loaded 1000 records to file 2024-04-18T14:01:57.284380
+2024-04-18 14:02:59 - INFO - extracted 1000 records from file 2024-04-18T14:02:59.871410
+2024-04-18 14:02:59 - INFO - loaded 1000 records to file 2024-04-18T14:02:59.887425
+2024-04-18 14:02:59 - INFO - extracted 1000 records from file 2024-04-18T14:02:59.912746
+2024-04-18 14:02:59 - INFO - extracted 1000 records from file 2024-04-18T14:02:59.912746
+2024-04-18 14:02:59 - INFO - loaded 1000 records to file 2024-04-18T14:02:59.924756
+2024-04-18 14:02:59 - INFO - loaded 1000 records to file 2024-04-18T14:02:59.924756
+2024-04-18 14:02:59 - INFO - extracted 1000 records from file 2024-04-18T14:02:59.943742
+2024-04-18 14:02:59 - INFO - extracted 1000 records from file 2024-04-18T14:02:59.943742
+2024-04-18 14:02:59 - INFO - extracted 1000 records from file 2024-04-18T14:02:59.943742
+2024-04-18 14:02:59 - INFO - loaded 1000 records to file 2024-04-18T14:02:59.955655
+2024-04-18 14:02:59 - INFO - loaded 1000 records to file 2024-04-18T14:02:59.955655
+2024-04-18 14:02:59 - INFO - loaded 1000 records to file 2024-04-18T14:02:59.955655
+2024-04-18 14:02:59 - INFO - extracted 1000 records from file 2024-04-18T14:02:59.966655
+2024-04-18 14:02:59 - INFO - extracted 1000 records from file 2024-04-18T14:02:59.966655
+2024-04-18 14:02:59 - INFO - extracted 1000 records from file 2024-04-18T14:02:59.966655
+2024-04-18 14:02:59 - INFO - extracted 1000 records from file 2024-04-18T14:02:59.966655
+2024-04-18 14:02:59 - INFO - loaded 1000 records to file 2024-04-18T14:02:59.977655
+2024-04-18 14:02:59 - INFO - loaded 1000 records to file 2024-04-18T14:02:59.977655
+2024-04-18 14:02:59 - INFO - loaded 1000 records to file 2024-04-18T14:02:59.977655
+2024-04-18 14:02:59 - INFO - loaded 1000 records to file 2024-04-18T14:02:59.977655
+2024-04-18 14:06:02 - INFO - extracted 1000 records from file 2024-04-18T14:06:02.103152
+2024-04-18 14:06:02 - INFO - loaded 1000 records to file 2024-04-18T14:06:02.123502
+2024-04-18 14:06:02 - INFO - extracted 1000 records from file 2024-04-18T14:06:02.157505
+2024-04-18 14:06:02 - INFO - extracted 1000 records from file 2024-04-18T14:06:02.157505
+2024-04-18 14:06:02 - INFO - loaded 1000 records to file 2024-04-18T14:06:02.180399
+2024-04-18 14:06:02 - INFO - loaded 1000 records to file 2024-04-18T14:06:02.180399
+2024-04-18 14:06:02 - INFO - extracted 1000 records from file 2024-04-18T14:06:02.205910
+2024-04-18 14:06:02 - INFO - extracted 1000 records from file 2024-04-18T14:06:02.205910
+2024-04-18 14:06:02 - INFO - extracted 1000 records from file 2024-04-18T14:06:02.205910
+2024-04-18 14:06:02 - INFO - loaded 1000 records to file 2024-04-18T14:06:02.222913
+2024-04-18 14:06:02 - INFO - loaded 1000 records to file 2024-04-18T14:06:02.222913
+2024-04-18 14:06:02 - INFO - loaded 1000 records to file 2024-04-18T14:06:02.222913
+2024-04-18 14:06:02 - INFO - extracted 1000 records from file 2024-04-18T14:06:02.240912
+2024-04-18 14:06:02 - INFO - extracted 1000 records from file 2024-04-18T14:06:02.240912
+2024-04-18 14:06:02 - INFO - extracted 1000 records from file 2024-04-18T14:06:02.240912
+2024-04-18 14:06:02 - INFO - extracted 1000 records from file 2024-04-18T14:06:02.240912
+2024-04-18 14:06:02 - INFO - loaded 1000 records to file 2024-04-18T14:06:02.256910
+2024-04-18 14:06:02 - INFO - loaded 1000 records to file 2024-04-18T14:06:02.256910
+2024-04-18 14:06:02 - INFO - loaded 1000 records to file 2024-04-18T14:06:02.256910
+2024-04-18 14:06:02 - INFO - loaded 1000 records to file 2024-04-18T14:06:02.256910
+2024-04-18 15:30:19 - INFO - extracted 1000 records from file 2024-04-18T15:30:19.668558
+2024-04-18 15:30:19 - INFO - loaded 1000 records to file 2024-04-18T15:30:19.691780
+2024-04-18 15:30:32 - INFO - extracted 1000 records from file 2024-04-18T15:30:32.571527
+2024-04-18 15:30:32 - INFO - loaded 1000 records to file 2024-04-18T15:30:32.595526
+2024-04-18 15:38:39 - INFO - extracted 1000 records from file 2024-04-18T15:38:39.579215
+2024-04-18 15:38:39 - INFO - loaded 1000 records to file 2024-04-18T15:38:39.596926
+2024-04-18 15:38:39 - INFO - extracted 1000 records from file 2024-04-18T15:38:39.624386
+2024-04-18 15:38:39 - INFO - extracted 1000 records from file 2024-04-18T15:38:39.624386
+2024-04-18 15:38:39 - INFO - loaded 1000 records to file 2024-04-18T15:38:39.639384
+2024-04-18 15:38:39 - INFO - loaded 1000 records to file 2024-04-18T15:38:39.639384
+2024-04-18 15:38:39 - INFO - extracted 1000 records from file 2024-04-18T15:38:39.660381
+2024-04-18 15:38:39 - INFO - extracted 1000 records from file 2024-04-18T15:38:39.660381
+2024-04-18 15:38:39 - INFO - extracted 1000 records from file 2024-04-18T15:38:39.660381
+2024-04-18 15:38:39 - INFO - loaded 1000 records to file 2024-04-18T15:38:39.678385
+2024-04-18 15:38:39 - INFO - loaded 1000 records to file 2024-04-18T15:38:39.678385
+2024-04-18 15:38:39 - INFO - loaded 1000 records to file 2024-04-18T15:38:39.678385
+2024-04-18 15:38:39 - INFO - extracted 1000 records from file 2024-04-18T15:38:39.693474
+2024-04-18 15:38:39 - INFO - extracted 1000 records from file 2024-04-18T15:38:39.693474
+2024-04-18 15:38:39 - INFO - extracted 1000 records from file 2024-04-18T15:38:39.693474
+2024-04-18 15:38:39 - INFO - extracted 1000 records from file 2024-04-18T15:38:39.693474
+2024-04-18 15:38:39 - INFO - loaded 1000 records to file 2024-04-18T15:38:39.706452
+2024-04-18 15:38:39 - INFO - loaded 1000 records to file 2024-04-18T15:38:39.706452
+2024-04-18 15:38:39 - INFO - loaded 1000 records to file 2024-04-18T15:38:39.706452
+2024-04-18 15:38:39 - INFO - loaded 1000 records to file 2024-04-18T15:38:39.706452
+2024-04-18 15:38:39 - INFO - extracted 1000 records from file 2024-04-18T15:38:39.724902
+2024-04-18 15:38:39 - INFO - extracted 1000 records from file 2024-04-18T15:38:39.724902
+2024-04-18 15:38:39 - INFO - extracted 1000 records from file 2024-04-18T15:38:39.724902
+2024-04-18 15:38:39 - INFO - extracted 1000 records from file 2024-04-18T15:38:39.724902
+2024-04-18 15:38:39 - INFO - extracted 1000 records from file 2024-04-18T15:38:39.724902
+2024-04-18 15:38:39 - INFO - loaded 1000 records to file 2024-04-18T15:38:39.738897
+2024-04-18 15:38:39 - INFO - loaded 1000 records to file 2024-04-18T15:38:39.738897
+2024-04-18 15:38:39 - INFO - loaded 1000 records to file 2024-04-18T15:38:39.738897
+2024-04-18 15:38:39 - INFO - loaded 1000 records to file 2024-04-18T15:38:39.738897
+2024-04-18 15:38:39 - INFO - loaded 1000 records to file 2024-04-18T15:38:39.738897
+2024-04-18 15:46:33 - INFO - extracted 1000 records from file 2024-04-18T15:46:33.781735
+2024-04-18 15:46:33 - INFO - loaded 1000 records to file 2024-04-18T15:46:33.799763
+2024-04-18 15:46:33 - INFO - extracted 1000 records from file 2024-04-18T15:46:33.829387
+2024-04-18 15:46:33 - INFO - extracted 1000 records from file 2024-04-18T15:46:33.829387
+2024-04-18 15:46:33 - INFO - loaded 1000 records to file 2024-04-18T15:46:33.842387
+2024-04-18 15:46:33 - INFO - loaded 1000 records to file 2024-04-18T15:46:33.842387
+2024-04-18 15:46:33 - INFO - extracted 1000 records from file 2024-04-18T15:46:33.865494
+2024-04-18 15:46:33 - INFO - extracted 1000 records from file 2024-04-18T15:46:33.865494
+2024-04-18 15:46:33 - INFO - extracted 1000 records from file 2024-04-18T15:46:33.865494
+2024-04-18 15:46:33 - INFO - loaded 1000 records to file 2024-04-18T15:46:33.880391
+2024-04-18 15:46:33 - INFO - loaded 1000 records to file 2024-04-18T15:46:33.880391
+2024-04-18 15:46:33 - INFO - loaded 1000 records to file 2024-04-18T15:46:33.880391
+2024-04-18 15:46:33 - INFO - extracted 1000 records from file 2024-04-18T15:46:33.894389
+2024-04-18 15:46:33 - INFO - extracted 1000 records from file 2024-04-18T15:46:33.894389
+2024-04-18 15:46:33 - INFO - extracted 1000 records from file 2024-04-18T15:46:33.894389
+2024-04-18 15:46:33 - INFO - extracted 1000 records from file 2024-04-18T15:46:33.894389
+2024-04-18 15:46:33 - INFO - loaded 1000 records to file 2024-04-18T15:46:33.909483
+2024-04-18 15:46:33 - INFO - loaded 1000 records to file 2024-04-18T15:46:33.909483
+2024-04-18 15:46:33 - INFO - loaded 1000 records to file 2024-04-18T15:46:33.909483
+2024-04-18 15:46:33 - INFO - loaded 1000 records to file 2024-04-18T15:46:33.909483
+2024-04-18 15:46:33 - INFO - extracted 1000 records from file 2024-04-18T15:46:33.926003
+2024-04-18 15:46:33 - INFO - extracted 1000 records from file 2024-04-18T15:46:33.926003
+2024-04-18 15:46:33 - INFO - extracted 1000 records from file 2024-04-18T15:46:33.926003
+2024-04-18 15:46:33 - INFO - extracted 1000 records from file 2024-04-18T15:46:33.926003
+2024-04-18 15:46:33 - INFO - extracted 1000 records from file 2024-04-18T15:46:33.926003
+2024-04-18 15:46:33 - INFO - loaded 1000 records to file 2024-04-18T15:46:33.940004
+2024-04-18 15:46:33 - INFO - loaded 1000 records to file 2024-04-18T15:46:33.940004
+2024-04-18 15:46:33 - INFO - loaded 1000 records to file 2024-04-18T15:46:33.940004
+2024-04-18 15:46:33 - INFO - loaded 1000 records to file 2024-04-18T15:46:33.940004
+2024-04-18 15:46:33 - INFO - loaded 1000 records to file 2024-04-18T15:46:33.940004
+2024-04-18 17:05:19 - INFO - extracted 1000 records from file 2024-04-18T17:05:19.360208
+2024-04-18 17:05:19 - INFO - loaded 1000 records to file 2024-04-18T17:05:19.384212
+2024-04-18 17:12:47 - INFO - extracted 1000 records from file 2024-04-18T17:12:47.782982
+2024-04-18 17:12:47 - INFO - loaded 1000 records to file 2024-04-18T17:12:47.805995
+2024-04-18 17:12:55 - INFO - extracted 1000 records from file 2024-04-18T17:12:55.511092
+2024-04-18 17:12:55 - INFO - loaded 1000 records to file 2024-04-18T17:12:55.533314
+2024-04-18 17:24:46 - INFO - extracted 1000 records from file 2024-04-18T17:24:46.994377
+2024-04-18 17:24:47 - INFO - loaded 1000 records to file 2024-04-18T17:24:47.014382
+2024-04-21 10:28:59 - INFO - extracted 1000 records from file 2024-04-21T10:28:59.216502
+2024-04-21 10:28:59 - INFO - loaded 1000 records to file 2024-04-21T10:28:59.248359
+2024-04-21 13:55:47 - INFO - extracted 1000 records from file 2024-04-21T13:55:47.684058
+2024-04-21 13:55:47 - INFO - loaded 1000 records to file 2024-04-21T13:55:47.739457
+2024-04-21 13:55:53 - INFO - extracted 1000 records from file 2024-04-21T13:55:53.669102
+2024-04-21 13:55:53 - INFO - loaded 1000 records to file 2024-04-21T13:55:53.687117
+2024-04-22 11:10:36 - ERROR - An error occurred while extracting data from MadaReports - MadaReports.csv: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2024-04-22 11:10:36 - ERROR - Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2024-04-22 11:14:58 - ERROR - An error occurred while extracting data from MadaReports - MadaReports.csv: Authentication required.
+2024-04-22 11:14:58 - ERROR - Authentication required.
+2024-04-22 11:15:39 - ERROR - An error occurred while extracting data from MadaReports - MadaReports.csv: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2024-04-22 11:15:39 - ERROR - Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2024-04-22 11:20:38 - ERROR - An error occurred while extracting data from MadaReports - MadaReports.csv: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2024-04-22 11:20:38 - ERROR - Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2024-04-22 11:21:32 - ERROR - An error occurred while extracting data from MadaReports - MadaReports.csv: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2024-04-22 11:21:32 - ERROR - Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2024-04-22 11:29:17 - ERROR - An error occurred while extracting data from MadaReports - MadaReports.csv: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2024-04-22 11:29:17 - ERROR - Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2024-04-22 11:32:05 - ERROR - An error occurred while extracting data from MadaReports - MadaReports.csv: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2024-04-22 11:32:05 - ERROR - Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2024-04-22 11:34:37 - ERROR - An error occurred while extracting data from MadaReports - MadaReports.csv: Error 10060 connecting to 172.17.0.2:6379. A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2024-04-22 11:34:37 - ERROR - Error 10060 connecting to 172.17.0.2:6379. A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2024-04-22 11:36:31 - ERROR - An error occurred while extracting data from MadaReports - MadaReports.csv: Error 10049 connecting to 0.0.0.0:49153. The requested address is not valid in its context.
+2024-04-22 11:36:31 - ERROR - Error 10049 connecting to 0.0.0.0:49153. The requested address is not valid in its context.
+2024-04-22 11:36:40 - ERROR - An error occurred while extracting data from MadaReports - MadaReports.csv: Error 10049 connecting to 0.0.0.0:6379. The requested address is not valid in its context.
+2024-04-22 11:36:40 - ERROR - Error 10049 connecting to 0.0.0.0:6379. The requested address is not valid in its context.
+2024-04-22 11:37:08 - ERROR - An error occurred while extracting data from MadaReports - MadaReports.csv: Error 10060 connecting to 172.17.0.2:6379. A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2024-04-22 11:37:08 - ERROR - Error 10060 connecting to 172.17.0.2:6379. A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.

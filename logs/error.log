@@ -1,0 +1,52 @@
+INFO:etl_logger:extracted 1000 records from file 2024-04-18T01:08:51.096483
+ERROR:etl_logger:bug
+INFO:etl_logger:loaded 1000 records to file 2024-04-18T01:08:51.112123
+INFO:etl_logger:extracted 1000 records from file 2024-04-18T01:08:56.430810
+ERROR:etl_logger:bug
+INFO:etl_logger:loaded 1000 records to file 2024-04-18T01:08:56.430810
+INFO:etl_logger:extracted 1000 records from file 2024-04-18T01:15:42.401789
+ERROR:etl_logger:bug
+INFO:etl_logger:loaded 1000 records to file 2024-04-18T01:15:42.417437
+INFO:etl_logger:extracted 1000 records from file 2024-04-18T01:20:58.079658
+ERROR:etl_logger:bug
+INFO:etl_logger:loaded 1000 records to file 2024-04-18T01:20:58.095280
+INFO:etl_logger:extracted 1000 records from file 2024-04-18T01:21:29.890364
+ERROR:etl_logger:bug
+INFO:etl_logger:loaded 1000 records to file 2024-04-18T01:21:29.905998
+INFO:etl_logger:extracted 1000 records from file 2024-04-18T01:24:40.261249
+ERROR:etl_logger:bug
+INFO:etl_logger:loaded 1000 records to file 2024-04-18T01:24:40.276965
+INFO:etl_logger:extracted 1000 records from file 2024-04-18T01:26:20.198514
+ERROR:etl_logger:bug
+INFO:etl_logger:loaded 1000 records to file 2024-04-18T01:26:20.214046
+INFO:etl_logger:extracted 1000 records from file 2024-04-18T01:28:32.756797
+ERROR:etl_logger:bug
+INFO:etl_logger:loaded 1000 records to file 2024-04-18T01:28:32.756797
+INFO:etl_logger:extracted 1000 records from file 2024-04-18T01:31:20.508175
+ERROR:etl_logger:bug
+INFO:etl_logger:loaded 1000 records to file 2024-04-18T01:31:20.523786
+INFO:etl_logger:extracted 1000 records from file 2024-04-18T01:32:34.469443
+ERROR:etl_logger:bug
+INFO:etl_logger:extracted 1000 records from file 2024-04-18T01:32:48.148906
+ERROR:etl_logger:bug
+INFO:etl_logger:loaded 1000 records to file 2024-04-18T01:32:48.164540
+INFO:etl_logger:extracted 1000 records from file 2024-04-18T01:35:19.692183
+ERROR:etl_logger:bug
+INFO:etl_logger:loaded 1000 records to file 2024-04-18T01:35:19.707828
+INFO:etl_logger:extracted 1000 records from file 2024-04-18T02:01:21.427540
+ERROR:etl_logger:bug
+An error occurred while loading data: load_batches() takes 2 positional arguments but 4 were given
+An error occurred while loading data: load_batches() takes 2 positional arguments but 4 were given
+An error occurred while loading data: load_batches() takes 2 positional arguments but 4 were given
+ERROR:error_logger:An error occurred while loading data: load_batches() takes 2 positional arguments but 4 were given
+ERROR:etl_logger:load_batches() takes 2 positional arguments but 4 were given
+INFO:etl_logger:extracted 1000 records from file 2024-04-18T02:01:38.317739
+ERROR:etl_logger:bug
+INFO:etl_logger:loaded 1000 records to file 2024-04-18T02:01:38.333303
+INFO:etl_logger:extracted 1000 records from file 2024-04-18T02:02:24.345938
+ERROR:etl_logger:bug
+INFO:etl_logger:loaded 1000 records to file 2024-04-18T02:02:24.361464
+INFO:etl_logger:extracted 1000 records from file 2024-04-18T02:04:49.078116
+INFO:etl_logger:loaded 1000 records to file 2024-04-18T02:04:49.093739
+INFO:etl_logger:extracted 1000 records from file 2024-04-18T10:39:32.097430
+INFO:etl_logger:loaded 1000 records to file 2024-04-18T10:39:32.128935
