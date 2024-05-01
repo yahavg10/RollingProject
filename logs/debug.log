@@ -422,3 +422,11 @@
 2024-05-01 11:55:02 - ERROR - An error occurred while extracting data from dogs/dog.jpeg: [WinError 267] The directory name is invalid: 'dogs/dog.jpeg'
 2024-05-01 13:31:05 - INFO - extracted 2 records from file 2024-05-01T13:31:05.277252
 2024-05-01 13:31:41 - INFO - loaded 2 records to file 2024-05-01T13:31:41.562471
+2024-05-01 13:53:46 - INFO - extracted 165795 records from file 2024-05-01T13:53:46.572773
+2024-05-01 13:53:46 - ERROR - An error occurred while loading data: not enough values to unpack (expected 2, got 1)
+2024-05-01 13:53:46 - ERROR - not enough values to unpack (expected 2, got 1)
+2024-05-01 13:54:12 - INFO - extracted 1 records from file 2024-05-01T13:54:12.001326
+2024-05-01 13:54:12 - INFO - loaded 1 records to file 2024-05-01T13:54:12.006549
+2024-05-01 13:54:42 - INFO - extracted 146935 records from file 2024-05-01T13:54:42.970006
+2024-05-01 13:54:42 - ERROR - An error occurred while loading data: not enough values to unpack (expected 2, got 1)
+2024-05-01 13:54:42 - ERROR - not enough values to unpack (expected 2, got 1)

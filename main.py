@@ -15,7 +15,7 @@ def program() -> NoReturn:
         app_config: AppConfig = load_configuration(config_model=AppConfig, path_to_load_from=os.getenv("conf_path"))
 
         logger = setup_custom_logger(app_config.logger.logger_name, app_config.logger)
-
+        print(type(logger))
         load(data=extract(app_config=app_config, input_path=app_config.extractor.input_path),
              app_config=app_config)
     except Exception as e:

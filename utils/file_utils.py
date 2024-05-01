@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import logging
+from logging import Logger
 import os
 from typing import *
 
@@ -38,7 +39,7 @@ app_config: AppConfig = load_configuration(config_model=AppConfig,
 logger = logging.getLogger(app_config.logger.logger_name)
 
 
-def setup_custom_logger(name, logger_config: LoggerModel, log_level=logging.DEBUG):
+def setup_custom_logger(name, logger_config: LoggerModel, log_level=logging.DEBUG) -> Logger:
     formatter = logging.Formatter(fmt=logger_config.fmt, datefmt=logger_config.datefmt)
 
     init_logger = logging.getLogger(name)
