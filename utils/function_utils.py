@@ -68,9 +68,8 @@ def get_folder_hash(folder_path: str) -> str:
 
 
 def initialize_redis(app_config):
-    redis_client = redis.StrictRedis(host=app_config.redis_config.host,
+    redis_client = redis.Redis(host=app_config.redis_config.host,
                                      port=app_config.redis_config.port,
-                                     db=app_config.redis_config.db,
                                      password='redispw',
                                      decode_responses=True)
     print(redis_client.ping())

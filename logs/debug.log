@@ -398,3 +398,27 @@
 2024-04-22 11:36:40 - ERROR - Error 10049 connecting to 0.0.0.0:6379. The requested address is not valid in its context.
 2024-04-22 11:37:08 - ERROR - An error occurred while extracting data from MadaReports - MadaReports.csv: Error 10060 connecting to 172.17.0.2:6379. A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
 2024-04-22 11:37:08 - ERROR - Error 10060 connecting to 172.17.0.2:6379. A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2024-04-30 15:26:01 - ERROR - An error occurred while extracting data from dogs: Error 10049 connecting to 0.0.0.0:49154. The requested address is not valid in its context.
+2024-04-30 15:26:01 - ERROR - Error 10049 connecting to 0.0.0.0:49154. The requested address is not valid in its context.
+2024-04-30 15:26:35 - ERROR - An error occurred while extracting data from dogs: Error 10060 connecting to 172.17.0.2:6379. A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2024-04-30 15:26:35 - ERROR - Error 10060 connecting to 172.17.0.2:6379. A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2024-04-30 15:27:30 - ERROR - An error occurred while extracting data from dogs: Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+2024-04-30 15:27:30 - ERROR - Error 10061 connecting to 127.0.0.1:6379. No connection could be made because the target machine actively refused it.
+2024-05-01 11:48:57 - INFO - extracted 3 records from file 2024-05-01T11:48:57.109058
+2024-05-01 11:48:57 - ERROR - No module named 'load.strategies.batches'
+2024-05-01 11:48:57 - ERROR - An error occurred while loading data: No module named 'load.strategies.batches'
+2024-05-01 11:48:57 - ERROR - No module named 'load.strategies.batches'
+2024-05-01 11:50:05 - ERROR - An error occurred while extracting data from dogs: 'str' object has no attribute 'decode'
+2024-05-01 11:50:05 - ERROR - 'str' object has no attribute 'decode'
+2024-05-01 11:50:45 - INFO - extracted 280232 records from file 2024-05-01T11:50:45.204945
+2024-05-01 11:50:45 - ERROR - Function 'load_json' not found in module 'image'.
+2024-05-01 11:50:45 - ERROR - An error occurred while loading data: module 'load.strategies.image' has no attribute 'load_json'
+2024-05-01 11:50:45 - ERROR - module 'load.strategies.image' has no attribute 'load_json'
+2024-05-01 11:51:19 - INFO - extracted 280232 records from file 2024-05-01T11:51:19.942000
+2024-05-01 11:51:19 - ERROR - An error occurred while loading data: not enough values to unpack (expected 2, got 1)
+2024-05-01 11:51:19 - ERROR - not enough values to unpack (expected 2, got 1)
+2024-05-01 11:51:47 - INFO - extracted 280232 records from file 2024-05-01T11:51:47.269134
+2024-05-01 11:52:30 - INFO - extracted 280232 records from file 2024-05-01T11:52:30.044697
+2024-05-01 11:55:02 - ERROR - An error occurred while extracting data from dogs/dog.jpeg: [WinError 267] The directory name is invalid: 'dogs/dog.jpeg'
+2024-05-01 13:31:05 - INFO - extracted 2 records from file 2024-05-01T13:31:05.277252
+2024-05-01 13:31:41 - INFO - loaded 2 records to file 2024-05-01T13:31:41.562471

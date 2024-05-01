@@ -1,14 +1,14 @@
 redis_config:
-  host: 172.17.0.2
-  port: 6379
+  host: '127.0.0.1'
+  port: 49155
   db: 0
 extractor:
   extraction_function: "extract_images"
   strategy_module: "image"
   input_path: "dogs"
 loader:
-  loading_function: "load_json"
-  strategy_module: "batches"
+  loading_function: "load_image_to_redis"
+  strategy_module: "image"
 logger:
   logger_name: "rolling_logger"
   base_level: DEBUG

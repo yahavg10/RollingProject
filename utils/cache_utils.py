@@ -21,4 +21,4 @@ def get_cache_parameters(folder_path, redis_client):
 
 
 def is_folder_cache_match(current_hash, cached_hash) -> List[Tuple[str, bytes]] | None:
-    return cached_hash and cached_hash.decode("utf-8") == current_hash
+    return cached_hash and cached_hash == current_hash
