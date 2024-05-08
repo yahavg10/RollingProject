@@ -28,3 +28,4 @@ class LoggerModel(BaseModel):
             raise ValueError(
                 f"Invalid log level: {v}. Valid levels are ', ({LogLevel.DEBUG}, {LogLevel.INFO} , {LogLevel.WARNING}, {LogLevel.ERROR}, {LogLevel.CRITICAL})")
         return v.upper()
+

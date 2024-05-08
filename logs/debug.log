@@ -430,3 +430,67 @@
 2024-05-01 13:54:42 - INFO - extracted 146935 records from file 2024-05-01T13:54:42.970006
 2024-05-01 13:54:42 - ERROR - An error occurred while loading data: not enough values to unpack (expected 2, got 1)
 2024-05-01 13:54:42 - ERROR - not enough values to unpack (expected 2, got 1)
+2024-05-01 13:58:17 - INFO - extracted 2 records from file 2024-05-01T13:58:17.081560
+2024-05-01 13:58:26 - INFO - loaded 2 records to file 2024-05-01T13:58:26.691958
+2024-05-05 14:05:18 - INFO - extracted 165795 records from file 2024-05-05T14:05:18.596348
+2024-05-05 14:05:18 - ERROR - An error occurred while loading data: not enough values to unpack (expected 2, got 1)
+2024-05-05 14:05:18 - ERROR - not enough values to unpack (expected 2, got 1)
+2024-05-05 14:05:50 - INFO - extracted 3 records from file 2024-05-05T14:05:50.774101
+2024-05-05 14:05:50 - INFO - loaded 3 records to file 2024-05-05T14:05:50.788715
+2024-05-05 14:06:35 - INFO - extracted 312731 records from file 2024-05-05T14:06:35.570710
+2024-05-05 14:06:35 - ERROR - An error occurred while loading data: not enough values to unpack (expected 2, got 1)
+2024-05-05 14:06:35 - ERROR - not enough values to unpack (expected 2, got 1)
+2024-05-05 14:06:55 - INFO - extracted 312731 records from file 2024-05-05T14:06:55.212572
+2024-05-05 14:06:55 - ERROR - An error occurred while loading data: not enough values to unpack (expected 2, got 1)
+2024-05-05 14:06:55 - ERROR - not enough values to unpack (expected 2, got 1)
+2024-05-05 14:14:30 - ERROR - An error occurred while extracting data from dogs: Expecting value: line 1 column 1 (char 0)
+2024-05-05 14:14:30 - ERROR - Expecting value: line 1 column 1 (char 0)
+2024-05-05 14:15:03 - ERROR - An error occurred while extracting data from dogs: Expecting value: line 1 column 1 (char 0)
+2024-05-05 14:15:08 - ERROR - Expecting value: line 1 column 1 (char 0)
+2024-05-05 14:20:20 - ERROR - An error occurred while extracting data from dogs: name 'yaml' is not defined
+2024-05-05 14:20:20 - ERROR - name 'yaml' is not defined
+2024-05-05 14:20:47 - ERROR - An error occurred while extracting data from dogs: could not determine a constructor for the tag 'tag:yaml.org,2002:python/tuple'
+  in "<unicode string>", line 1, column 3:
+    - !!python/tuple
+      ^
+2024-05-05 14:20:47 - ERROR - could not determine a constructor for the tag 'tag:yaml.org,2002:python/tuple'
+  in "<unicode string>", line 1, column 3:
+    - !!python/tuple
+      ^
+2024-05-05 14:25:25 - ERROR - An error occurred while extracting data from dogs: could not determine a constructor for the tag 'tag:yaml.org,2002:python/tuple'
+  in "<unicode string>", line 1, column 3:
+    - !!python/tuple
+      ^
+2024-05-05 14:25:25 - ERROR - could not determine a constructor for the tag 'tag:yaml.org,2002:python/tuple'
+  in "<unicode string>", line 1, column 3:
+    - !!python/tuple
+      ^
+2024-05-05 14:26:58 - ERROR - An error occurred while extracting data from dogs: 'str' object has no attribute 'decode'
+2024-05-05 14:26:58 - ERROR - 'str' object has no attribute 'decode'
+2024-05-05 14:27:57 - ERROR - An error occurred while extracting data from dogs: must be str or None, not bytes
+2024-05-05 14:27:57 - ERROR - must be str or None, not bytes
+2024-05-05 14:28:35 - ERROR - An error occurred while extracting data from dogs: 'str' object has no attribute 'decode'
+2024-05-05 14:28:35 - ERROR - 'str' object has no attribute 'decode'
+2024-05-05 14:40:39 - ERROR - An error occurred while extracting data from dogs: name 'folder_path' is not defined
+2024-05-05 14:40:39 - ERROR - name 'folder_path' is not defined
+2024-05-05 14:44:30 - ERROR - An error occurred while extracting data from dogs: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2024-05-05 14:44:30 - ERROR - 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2024-05-05 14:46:03 - ERROR - An error occurred while extracting data from dogs: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2024-05-05 14:46:03 - ERROR - 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2024-05-05 14:47:02 - ERROR - An error occurred while extracting data from dogs: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2024-05-05 14:47:04 - ERROR - 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2024-05-05 14:48:33 - ERROR - An error occurred while extracting data from dogs: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2024-05-05 14:48:33 - ERROR - 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2024-05-05 14:50:51 - ERROR - An error occurred while extracting data from dogs: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2024-05-05 14:50:51 - ERROR - 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2024-05-05 14:52:10 - ERROR - An error occurred while extracting data from dogs: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2024-05-05 14:52:10 - ERROR - 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2024-05-05 14:58:28 - INFO - extracted 3 records from file 2024-05-05T14:58:28.475818
+2024-05-05 14:58:28 - INFO - loaded 3 records to file 2024-05-05T14:58:28.487838
+2024-05-05 15:12:23 - INFO - extracted 3 records from file 2024-05-05T15:12:23.852247
+2024-05-05 15:12:23 - INFO - loaded 3 records to file 2024-05-05T15:12:23.869451
+2024-05-06 14:34:22 - INFO - extracted 3 records from file 2024-05-06T14:34:22.282316
+2024-05-06 14:34:22 - INFO - loaded 3 records to file 2024-05-06T14:34:22.313722
+2024-05-06 15:07:55 - INFO - extracted 3 records from file 2024-05-06T15:07:55.839388
+2024-05-06 16:51:13 - INFO - extracted 3 records from file 2024-05-06T16:51:13.569599
+2024-05-06 16:51:13 - INFO - loaded 3 records to file 2024-05-06T16:51:13.593862

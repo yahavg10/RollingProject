@@ -67,10 +67,9 @@ def get_folder_hash(folder_path: str) -> str:
     return hash_md5.hexdigest()
 
 
-def initialize_redis(app_config):
+def initialize_redis() -> redis.Redis:
     redis_client = redis.Redis(host=app_config.redis_config.host,
-                                     port=app_config.redis_config.port,
-                                     password=app_config.redis_config.password,
-                                     decode_responses=True)
-    print(redis_client.ping())
+                               port=app_config.redis_config.port,
+                               password=app_config.redis_config.password,
+                               decode_responses=False)
     return redis_client
