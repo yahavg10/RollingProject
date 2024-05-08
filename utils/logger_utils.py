@@ -1,4 +1,5 @@
 import logging
+from typing import List
 
 from configurations.models.logger_model import LoggerModel
 
@@ -8,23 +9,26 @@ def setup_custom_logger(logger_config: LoggerModel) -> logging.Logger:
 
     init_logger = logging.getLogger(name=logger_config.logger_name)
     init_logger.setLevel(logger_config.base_level)
-
-    init_logger.addHandler(create_handler(handler_type="FileHandler",
-                                          formatter=formatter,
-                                          filename=logger_config.error_file_path))
+    for handler_name in logger_config.handlers:
+        handler = create_handler(handler_name=handler_name,
+                                 filename=logger_config.log_file_path)
+        handler.setFormatter(formatter)
+        init_logger.addHandler(handler)
     return init_logger
 
 
-def create_handler(handler_type, formatter, **kwargs) -> logging.Handler:
+def create_handler(handler_name, **kwargs) -> logging.Handler:
     handler_mapping = {
         "FileHandler": logging.FileHandler,
         "StreamHandler": logging.StreamHandler,
     }
 
-    handler_class = handler_mapping.get(handler_type)
-
+    handler_class = handler_mapping.get(handler_name)
     if handler_class:
-        handler_class.setFormatter(formatter)
-        return handler_class(**kwargs)
+        if handler_name == "StreamHandler":
+            kwargs.pop("filename")
+            return handler_class(**kwargs)
+        else:
+            return handler_class(**kwargs)
     else:
         raise ValueError("Unsupported handler type")

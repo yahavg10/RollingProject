@@ -4,19 +4,24 @@ redis_config:
   db: 0
   password: 'redispw'
 extractor:
-  extraction_function: "extract_images"
-  strategy_module: "image"
+  extraction_function: "extract_binary_files"
+  package_name: "utils"
+  sub_package_name: "dbs"
+  strategy_module: "redis"
+  extract_method: "get"
   input_path: "dogs"
 loader:
-  loading_function: "load_image_to_redis"
-  strategy_module: "image"
+  loading_function: "load_binary_files"
+  package_name: "utils"
+  sub_package_name: "dbs"
+  strategy_module: "redis"
+  load_method: "set"
 logger:
   logger_name: "rolling_logger"
   base_level: DEBUG
   fmt: "%(asctime)s - %(levelname)s - %(message)s"
   datefmt: "%Y-%m-%d %H:%M:%S"
-  debug_file_path: "logs/debug.log"
-  info_file_path: "logs/info.log"
-  warning_file_path: "logs/warning.log"
-  error_file_path: "logs/error.log"
-  critical_file_path: "logs/critical.log"
+  handlers:
+    - "FileHandler"
+    - "StreamHandler"
+  log_file_path: "logs/log.log"

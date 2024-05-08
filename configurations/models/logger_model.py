@@ -16,11 +16,8 @@ class LoggerModel(BaseModel):
     base_level: LogLevel
     fmt: str
     datefmt: str
-    debug_file_path: str
-    info_file_path: str
-    warning_file_path: str
-    error_file_path: str
-    critical_file_path: str
+    handlers: list
+    log_file_path: str
 
     @validator('base_level')
     def validate_base_level(cls, v):
@@ -28,4 +25,3 @@ class LoggerModel(BaseModel):
             raise ValueError(
                 f"Invalid log level: {v}. Valid levels are ', ({LogLevel.DEBUG}, {LogLevel.INFO} , {LogLevel.WARNING}, {LogLevel.ERROR}, {LogLevel.CRITICAL})")
         return v.upper()
-
