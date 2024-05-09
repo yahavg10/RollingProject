@@ -1,7 +1,7 @@
 import importlib
 import os
 
-from configurations.models.app_model import AppConfig
+from models.app_model import AppConfig
 from utils.file_utils import load_configuration
 from utils.logger_utils import setup_custom_logger
 

@@ -5,7 +5,7 @@ from typing import *
 import yaml
 from pydantic import BaseModel
 
-from configurations.models.app_model import AppConfig
+from models.app_model import AppConfig
 
 
 def extract_binary_file_content(file_path): return open(file_path, 'rb').read()

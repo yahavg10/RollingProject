@@ -6,9 +6,6 @@ from typing import Callable, Any
 
 
 def calculate_md5(file_path: str):
-    # If the content of the file changes, the MD5 hash will change.
-    # If only the file size or modification time changes,
-    # but the content remains the same, the MD5 hash will remain unchanged.
     file_info = os.stat(file_path)
     file_info_str = f"{file_info.st_size}-{file_info.st_mtime}-{file_path}"
     md5_hash = hashlib.md5(file_info_str.encode())

@@ -1,7 +1,7 @@
 import os
 from typing import NoReturn
 
-os.environ["conf_path"] = "configurations/base.yml"
+os.environ["conf_path"] = "base.yml"
 
 from utils import app_config, logger
 from extract.extract import extract
@@ -12,6 +12,7 @@ def main() -> NoReturn:
     try:
         extracted_data = extract(input_path=app_config.extractor.input_path)
         load(data=extracted_data)
+        logger.info("Successfully finished")
     except Exception as e:
         logger.error(e)
         raise e

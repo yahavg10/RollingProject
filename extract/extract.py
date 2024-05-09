@@ -1,7 +1,7 @@
-import logging
 from typing import List, Tuple
 
 from configurations.models.extractor_model import Extractor
+
 from utils import app_config, logger
 from utils.function_utils import logger_extract, import_dynamic_function
 

@@ -1,7 +1,6 @@
 import logging
-from typing import List
 
-from configurations.models.logger_model import LoggerModel
+from models.logger_model import LoggerModel
 
 
 def setup_custom_logger(logger_config: LoggerModel) -> logging.Logger:

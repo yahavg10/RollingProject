@@ -2,10 +2,10 @@ from typing import Type
 
 from pydantic import BaseModel
 
-from configurations.models.extractor_model import Extractor
-from configurations.models.loader_model import Loader
-from configurations.models.logger_model import LoggerModel
-from configurations.models.redis_model import RedisModel
+from models.extractor_model import Extractor
+from models.loader_model import Loader
+from models.logger_model import LoggerModel
+from models.redis_model import RedisModel
 
 
 class Config(BaseModel):
